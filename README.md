@@ -5,7 +5,7 @@ Code repository accompanying the paper by Liao et al. (2026)
 This repository contains all code used in bulk RNA sequencing analysis in Liao et al. (2026) after processing raw data through the nf-core/rnaseq pipeline. 
 
 ## Data Availability
-Data associated with this paper is located in GEO.
+Data associated with this paper is located in the NCBI Gene Expression Omnibus under accession code: GSE344454.
 
 ## Code Usage
 1. DataProcessing.R performs QC and generates PCA plots and Spearman's Correlation Heatmaps. 
